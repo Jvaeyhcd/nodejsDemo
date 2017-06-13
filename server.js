@@ -4,7 +4,7 @@
 
 var net = require('net');
 
-var HOST = '127.0.0.1';
+var HOST = '139.219.190.46';
 var PORT = 6969;
 
 // 创建一个TCP服务器实例，调用listen函数开始监听指定端口
